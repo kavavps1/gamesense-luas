@@ -14,8 +14,8 @@
 
 **30.03.2023**
 - 2 Indicator options :
- -  Skeet
- -  Under crosshair
+ -     Skeet
+ -    Under crosshair
 - Fixed UI
 - Indicator Colorpicker
 
