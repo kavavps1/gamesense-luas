@@ -8,6 +8,6 @@ Features:
  - Customizable damage while inair
  - Indicators
 
-https://i.imgur.com/m4iFAs9.png
+![1 img](https://i.imgur.com/m4iFAs9.png)
 
-https://i.imgur.com/RQL5HZR.png
+![1 img](https://i.imgur.com/RQL5HZR.png)
