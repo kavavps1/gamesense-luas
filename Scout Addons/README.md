@@ -4,13 +4,14 @@ Scout Addons.lua
 
 Changelog:
 29.03.2023
--Public release
+- Public release
+- 
 30.03.2023
--2 Indicator options :
- -Skeet
- -Under crosshair
--Fixed UI
--Indicator Colorpicker
+- 2 Indicator options :
+ - Skeet
+ - Under crosshair
+- Fixed UI
+- Indicator Colorpicker
 
 
 Features:
