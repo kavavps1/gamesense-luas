@@ -2,6 +2,17 @@ Obfuscated cuz shit code idc
 
 Scout Addons.lua
 
+Changelog:
+29.03.2023
+-Public release
+30.03.2023
+-2 Indicator options :
+ -Skeet
+ -Under crosshair
+-Fixed UI
+-Indicator Colorpicker
+
+
 Features:
  - Customizable hitchance on key
  - Customizable hitchance while inair
